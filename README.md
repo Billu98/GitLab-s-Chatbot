@@ -12,8 +12,6 @@ GitLab's Chatbot is a Retrieval-Augmented Generation (RAG) chatbot that interact
 ## Requirements
 
 To install the required packages, run:
-
-```bash
 pip install -r requirements.txt
 
 ## Dependencies
