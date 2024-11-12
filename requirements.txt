@@ -1,0 +1,10 @@
+openai
+panel
+param
+langchain
+dotenv
+chroma-client
+pdfplumber
+tesseract
+pillow
+faiss-cpu  # Only if Chroma relies on FAISS for vector storage
