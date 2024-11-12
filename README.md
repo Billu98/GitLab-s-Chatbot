@@ -2,6 +2,9 @@
 
 GitLab's Chatbot is a Retrieval-Augmented Generation (RAG) chatbot that interacts with document data (PDF, Markdown, HTML, and images with text). It uses a combination of vector search and a language model to answer user queries based on provided documents. This project is built with LangChain, OpenAI, and Panel for the user interface.
 
+![image](https://github.com/user-attachments/assets/2aee79e4-5ffc-4911-93b9-d6ea88f84434)
+
+
 ## Features
 
 - **Multi-format Document Processing**: Supports PDFs, Markdown, HTML, and OCR for images.
